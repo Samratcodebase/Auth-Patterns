@@ -1,3 +1,4 @@
+import { validateEnvSchema } from "./src/common/utils/env.js";
 import app from "./src/app.js";
 import { connectDB } from "./src/common/DB/index.js";
 
