@@ -13,9 +13,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Samratcodebase/Auth-Patterns/issues"
   },
-  "homepage": "https://github.com/Samratcodebase/Auth-Patterns#readme"
+  "homepage": "https://github.com/Samratcodebase/Auth-Patterns#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.5.0"
+  }
 }
